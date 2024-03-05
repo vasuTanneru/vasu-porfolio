@@ -10,11 +10,11 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/VasuTanneru",
   resume:
-    "https://drive.google.com/file/d/1BTtRcYpGe6CFJknpcXTTLtTd_r4D_Gzr/view",
+    "https://drive.google.com/file/d/16DKLbavwYwh3eEPtEbUB6hMED3U1Tz0y/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/Vasu-tanneru/",
   twitter: "https://twitter.com/",
-  insta: "https://www.instagram.com/Vasu Kahn/",
-  facebook: "https://www.facebook.com/Vasu kahn/",
+  insta: "https://www.instagram.com/VasuKahn/",
+  facebook: "https://www.facebook.com/Vasukahn/",
 };
 
 export const skills = [
